@@ -1,4 +1,4 @@
-![MasterHead](https://assets-global.website-files.com/611c454f178a0445fa40a416/648c2532060f7e413b817bc9_iStock-1467921856-p-1080.jpg)
+![MasterHead](https://i.ibb.co/LNjcj4Y/Black-and-White-Gradient-Personal-Linked-In-Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Qasim</h1>
 <h3 align="center">A passionate Ethical Hacker & Bug Hunter from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
